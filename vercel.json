@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.youtube.com/watch?v=BQpMioqbh3I/$1"
+ }
+  ]
+}
